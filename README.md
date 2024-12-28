@@ -76,7 +76,3 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgments  
 - Thanks to all online resources and tutorials that provided guidance on SQL and database management.
-
----
-
-You can customize the text further based on additional project details. Let me know if you'd like me to adjust or add anything!

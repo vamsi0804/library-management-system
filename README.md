@@ -43,7 +43,7 @@ The database contains the following tables:
 ## Installation and Usage  
 1. Clone this repository:  
    ```bash  
-   git clone https://github.com/your-username/library-management-system.git  
+   git clone https://github.com/vamsi0804/library-management-system/blob/main/librarymanagementsystem.sql  
    ```  
 
 2. Open the SQL file `librarymanagementsystem.sql` in your database management tool (e.g., MySQL Workbench).  
